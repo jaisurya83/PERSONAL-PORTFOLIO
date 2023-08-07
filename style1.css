@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(140, 149, 110);
+}
+.box {
+    background-color: rgb(12, 9, 9);
+    border: 2px;
+    border-radius: 5px;
+}
+
+.p {
+    color: white;
+  }
+  
+  .a {
+    width: 300px; 
+    height: 300px;
+    border-radius: 50%; 
+    overflow: hidden; 
+   }
+h1 {
+        color: white;
+      }
+p {
+        color: white;
+      }
